@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Turistiar.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

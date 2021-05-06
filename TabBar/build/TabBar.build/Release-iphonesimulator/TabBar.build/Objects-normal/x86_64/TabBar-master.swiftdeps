@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "1229a7f61854c30accafa3eea087240e"
+build_time: [1620254426, 609071000]
+inputs:
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/ViewController.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/Cuidad.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/GaleriaViewController.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/Playas.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/PlayaCorr.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/ViewControllerPlayaDetalle.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/SceneDelegate.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/CuidadViewController.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/Pueblos.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/PlayaCorrectoViewController.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/FotosCollectionViewCell.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/proyecto final  swif/TabBar/TabBar/PueblosViewController.swift": [9223372036, 854775807]
